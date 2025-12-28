@@ -1,0 +1,218 @@
+[
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "age": 20,
+      "dateOfBirth": "2005-01-15",
+      "phone": "9876543201",
+      "email": "aarav.sharma@example.com",
+      "grade": "A",
+      "address": { "street": "MG Road", "city": "Pune", "pincode": 411001 }
+    },
+    {
+      "id": 2,
+      "name": "Ananya Patil",
+      "age": 21,
+      "dateOfBirth": "2004-03-22",
+      "phone": "9876543202",
+      "email": "ananya.patil@example.com",
+      "grade": "B",
+      "address": { "street": "FC Road", "city": "Pune", "pincode": 411002 }
+    },
+    {
+      "id": 3,
+      "name": "Rohan Deshmukh",
+      "age": 22,
+      "dateOfBirth": "2003-07-10",
+      "phone": "9876543203",
+      "email": "rohan.deshmukh@example.com",
+      "grade": "C",
+      "address": { "street": "JM Road", "city": "Mumbai", "pincode": 400001 }
+    },
+    {
+      "id": 4,
+      "name": "Sneha Kulkarni",
+      "age": 20,
+      "dateOfBirth": "2005-02-18",
+      "phone": "9876543204",
+      "email": "sneha.kulkarni@example.com",
+      "grade": "D",
+      "address": { "street": "Baner Road", "city": "Pune", "pincode": 411003 }
+    },
+    {
+      "id": 5,
+      "name": "Aditya Joshi",
+      "age": 23,
+      "dateOfBirth": "2002-11-05",
+      "phone": "9876543205",
+      "email": "aditya.joshi@example.com",
+      "grade": "A",
+      "address": { "street": "Kothrud Depot", "city": "Pune", "pincode": 411004 }
+    },
+  
+    {
+      "id": 6,
+      "name": "Neha Verma",
+      "age": 21,
+      "dateOfBirth": "2004-06-14",
+      "phone": "9876543206",
+      "email": "neha.verma@example.com",
+      "grade": "B",
+      "address": { "street": "Link Road", "city": "Mumbai", "pincode": 400002 }
+    },
+    {
+      "id": 7,
+      "name": "Kunal Mehta",
+      "age": 22,
+      "dateOfBirth": "2003-09-09",
+      "phone": "9876543207",
+      "email": "kunal.mehta@example.com",
+      "grade": "C",
+      "address": {
+        "street": "SG Highway",
+        "city": "Ahmedabad",
+        "pincode": 380001
+      }
+    },
+    {
+      "id": 8,
+      "name": "Pooja Singh",
+      "age": 20,
+      "dateOfBirth": "2005-04-25",
+      "phone": "9876543208",
+      "email": "pooja.singh@example.com",
+      "grade": "D",
+      "address": { "street": "Civil Lines", "city": "Delhi", "pincode": 110001 }
+    },
+    {
+      "id": 9,
+      "name": "Rahul Nair",
+      "age": 24,
+      "dateOfBirth": "2001-12-01",
+      "phone": "9876543209",
+      "email": "rahul.nair@example.com",
+      "grade": "A",
+      "address": { "street": "MG Road", "city": "Kochi", "pincode": 682001 }
+    },
+    {
+      "id": 10,
+      "name": "Isha Malhotra",
+      "age": 22,
+      "dateOfBirth": "2003-08-17",
+      "phone": "9876543210",
+      "email": "isha.malhotra@example.com",
+      "grade": "B",
+      "address": { "street": "Model Town", "city": "Delhi", "pincode": 110002 }
+    },
+  
+    {
+      "id": 11,
+      "name": "Vikram Rao",
+      "age": 23,
+      "dateOfBirth": "2002-05-30",
+      "phone": "9876543211",
+      "email": "vikram.rao@example.com",
+      "grade": "C",
+      "address": {
+        "street": "Indiranagar",
+        "city": "Bengaluru",
+        "pincode": 560001
+      }
+    },
+    {
+      "id": 12,
+      "name": "Meera Iyer",
+      "age": 21,
+      "dateOfBirth": "2004-10-11",
+      "phone": "9876543212",
+      "email": "meera.iyer@example.com",
+      "grade": "D",
+      "address": { "street": "Adyar", "city": "Chennai", "pincode": 600001 }
+    },
+    {
+      "id": 13,
+      "name": "Siddharth Gupta",
+      "age": 22,
+      "dateOfBirth": "2003-01-19",
+      "phone": "9876543213",
+      "email": "siddharth.gupta@example.com",
+      "grade": "A",
+      "address": { "street": "Alambagh", "city": "Lucknow", "pincode": 226001 }
+    },
+    {
+      "id": 14,
+      "name": "Ritika Jain",
+      "age": 20,
+      "dateOfBirth": "2005-07-07",
+      "phone": "9876543214",
+      "email": "ritika.jain@example.com",
+      "grade": "B",
+      "address": { "street": "MI Road", "city": "Jaipur", "pincode": 302001 }
+    },
+    {
+      "id": 15,
+      "name": "Nikhil Bansal",
+      "age": 23,
+      "dateOfBirth": "2002-09-28",
+      "phone": "9876543215",
+      "email": "nikhil.bansal@example.com",
+      "grade": "C",
+      "address": { "street": "Sector 18", "city": "Noida", "pincode": 201301 }
+    },
+  
+    {
+      "id": 16,
+      "name": "Kavya Reddy",
+      "age": 21,
+      "dateOfBirth": "2004-02-03",
+      "phone": "9876543216",
+      "email": "kavya.reddy@example.com",
+      "grade": "D",
+      "address": {
+        "street": "Banjara Hills",
+        "city": "Hyderabad",
+        "pincode": 500001
+      }
+    },
+    {
+      "id": 17,
+      "name": "Arjun Kapoor",
+      "age": 22,
+      "dateOfBirth": "2003-06-21",
+      "phone": "9876543217",
+      "email": "arjun.kapoor@example.com",
+      "grade": "A",
+      "address": { "street": "Andheri West", "city": "Mumbai", "pincode": 400003 }
+    },
+    {
+      "id": 18,
+      "name": "Tanvi Kulkarni",
+      "age": 20,
+      "dateOfBirth": "2005-11-13",
+      "phone": "9876543218",
+      "email": "tanvi.kulkarni@example.com",
+      "grade": "B",
+      "address": { "street": "Karve Nagar", "city": "Pune", "pincode": 411005 }
+    },
+    {
+      "id": 19,
+      "name": "Amit Chatterjee",
+      "age": 24,
+      "dateOfBirth": "2001-04-08",
+      "phone": "9876543219",
+      "email": "amit.chatterjee@example.com",
+      "grade": "C",
+      "address": { "street": "Salt Lake", "city": "Kolkata", "pincode": 700001 }
+    },
+    {
+      "id": 20,
+      "name": "Priya Sen",
+      "age": 21,
+      "dateOfBirth": "2004-12-19",
+      "phone": "9876543220",
+      "email": "priya.sen@example.com",
+      "grade": "D",
+      "address": { "street": "New Town", "city": "Kolkata", "pincode": 700002 }
+    }
+  ]
+  
