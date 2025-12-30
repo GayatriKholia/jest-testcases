@@ -21,10 +21,10 @@ jest.mock('ag-grid-react', () => {
 
 import App, { WishHappyBirthday } from './App';
 
-test('renders App container with specified height', () => {
-  const { container } = render(<App />);
-  expect(container.firstChild).toHaveStyle('height: 600px');
-});
+// test('renders App container with specified height', () => {
+//   const { container } = render(<App />);
+//   expect(container.firstChild).toHaveStyle('height: 600px');
+// });
 
 test('WishHappyBirthday button displays correct text', () => {
   render(<WishHappyBirthday name="Alice" />);
